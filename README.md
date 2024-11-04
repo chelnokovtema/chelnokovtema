@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chelnokovtema
+- 👋 Hi, I’m @timokhart
 - 👀 I’m interested in Statistics and Data Science
 - 🌱 I’m currently learning Computer Science
 - 📫 Reach me via email: chelnokovart@bk.ru
